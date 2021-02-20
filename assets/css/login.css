@@ -9,9 +9,9 @@
   }
   
   .bg-image {
-    background-image: url('tree.jpg');
+    background-image: url('Login.svg');
     background-size: cover;
-    background-position: center;
+    background-position: auto;
    
   }
   
